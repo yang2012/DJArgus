@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SettingFlyRangeCell</key>
+	<array>
+		<string></string>
+	</array>
+	<key>SettingFlyLineCell</key>
+	<array>
+		<string></string>
+	</array>
+	<key>SettingWhiteBalanceCell</key>
+	<array>
+		<string>自动</string>
+		<string>日光</string>
+		<string>多云</string>
+		<string>室内</string>
+	</array>
+	<key>SettingISOCell</key>
+	<array>
+		<string>ISOAuto</string>
+		<string>ISO100</string>
+		<string>ISO200</string>
+		<string>ISO400</string>
+		<string>ISO800</string>
+		<string>ISO1600</string>
+		<string>ISO3200</string>
+	</array>
+	<key>SettingExposureCell</key>
+	<array>
+		<string>程序</string>
+		<string>快门</string>
+		<string>手动</string>
+	</array>
+	<key>SettingVideoQualityCell</key>
+	<array>
+		<string>一般</string>
+		<string>较好</string>
+		<string>最优</string>
+	</array>
+	<key>SettingPhotoSizeCell</key>
+	<array>
+		<string>4384x2922</string>
+		<string>4384x2466</string>
+		<string>4608x3456</string>
+	</array>
+	<key>SettingSuperUserCell</key>
+	<array>
+		<string></string>
+	</array>
+	<key>SettingRegisterCell</key>
+	<array/>
+</dict>
+</plist>
